@@ -80,8 +80,6 @@ function separateBounds(A,b,Aeq,beq,tol) {
     }
 
 
-    /// end parsing bitch
-
 
 
 
